@@ -172,13 +172,13 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 🐛 Found a Bug?
 
-Open an [issue](https://github.com/your-username/food-delivery-app/issues) with steps to reproduce and expected behavior.
+Open an [issue](https://github.com/mdrehan8084/food-delivery-app/issues) with steps to reproduce and expected behavior.
 
 ---
 
 <div align="center">
 
-Made with ❤️ by **Manoj Codings**
+Made with ❤️ by **Md Rehan**
 
 ⭐ Star this repo if you found it helpful!
 
